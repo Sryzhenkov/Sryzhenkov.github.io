@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family:monospace;
-background: lightgray;
+    background: lightgray;
     font-size: 15px;
     line-height: 1.6;
     color: #333;
@@ -15,14 +15,14 @@ background: lightgray;
     width: 100%;
     padding-top: 10px;
     text-align: center;
-    position: absolute;
+  /*  position: absolute;*/
 }
 
 
 .intro {
     width: 100%;
     position:absolute;
-    padding-top: 150px;
+    padding-top: 10px;
     text-align: center;
 }
 
@@ -41,4 +41,11 @@ background: lightgray;
 .nav_list{
     
     text-align: left;
+}
+
+.footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    text-align: right;
 }
