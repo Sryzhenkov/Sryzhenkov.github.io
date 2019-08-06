@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: auto 15px;
     font-family:monospace;
     background: lightgray;
     font-size: 15px;
@@ -20,7 +20,6 @@ body {
 
 
 .intro {
-    width: 100%;
     position:absolute;
     padding-top: 10px;
     text-align: center;
@@ -44,8 +43,6 @@ body {
 }
 
 .footer{
-    width: 100%;
     position: absolute;
     bottom: 0px;
-    text-align: right;
 }
