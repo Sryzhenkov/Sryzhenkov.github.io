@@ -1,5 +1,5 @@
 body {
-    margin: auto 15px;
+     margin: auto 15px;
     font-family:monospace;
     background: lightgray;
     font-size: 15px;
@@ -20,6 +20,7 @@ body {
 
 
 .intro {
+    margin: auto 15px;
     position:absolute;
     padding-top: 10px;
     text-align: center;
