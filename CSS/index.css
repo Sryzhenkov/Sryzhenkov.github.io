@@ -43,6 +43,13 @@ body
     padding: 2px 50px;  
 }
 
+.nav_list{
+    
+    text-align: left;
+    font-style: italic;
+    font-weight: 750;
+}
+
 /*    Banner    */
 
 .banner{
@@ -55,3 +62,53 @@ body
     color: white;
 	background-size: cover;
 }
+
+/* row */
+.row {
+    border-bottom: solid 1px transparent;
+    
+}
+
+.row > * {
+    float: left;
+}
+
+.row > * {
+    padding: 50px 0 0 50px;
+}
+
+.row:after, .row:before {
+    content: '';
+    display: block;
+    clear: both;
+    height: 0;
+}
+
+/* Grid */
+.grid-2
+{
+    width: 50%;
+    clear: none;
+    margin-left: 0;
+}
+
+/* ------ */
+
+.special
+{
+    text-align: center;    
+}
+
+
+/* img scroll */
+
+.bg {
+    
+    background-image: url(../Image/scroll.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 30vh;
+    width: 100%;
+}
+
+
