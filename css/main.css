@@ -1,0 +1,75 @@
+body{
+	font-family: 'Raleway', sans-serif;
+/*	width: 2570px;*/
+}
+
+ul,li {
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+.main-header {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.logo {
+	font-weight: 700;
+	font-size: 30px;
+}
+
+.menu {
+	padding-top: 15px;
+}
+
+.menu__item {
+	font-weight: 400;
+	font-size: 14px;
+}
+
+
+
+.offer{
+background: url('../img/sec1.jpg')  no-repeat center top;
+height: 740px;
+}
+
+.title {
+	padding-top: 180px;
+}
+
+.title__heading{
+	font-weight: 700;
+	font-size: 36px;
+	color: white;
+}
+
+.title__desc{
+	font-weight: 400;
+	font-size: 36px;
+	color: white;
+}
+
+.intro{
+	padding-top: 50px;
+	font-weight: 400;
+	font-size: 14px;
+	color: white;
+}
+
+.butt{
+	padding-top: 60px;
+}
+.download{
+	outline:none !important;
+	background: rgba(255,255,255,0);
+	color: white;
+	padding: 20px 60px;
+	border-radius: 100px;
+	border-width: 3px;
+	font-size: 21px;
+	font-weight: 700;
+	text-transform: uppercase;
+
+}
