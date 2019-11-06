@@ -73,3 +73,24 @@ height: 740px;
 	text-transform: uppercase;
 
 }
+
+.feature{
+	height: 985px;
+}
+
+.title2__heading{
+	padding-top: 105px;
+	padding-bottom: 30px;
+	font-weight: 700;
+	font-size: 30px;
+	text-align: center;
+}
+
+.intro2__desc{
+	margin: 0;
+	text-align: center;
+}
+.intro2__desc2{
+	margin: 0;
+	text-align: center;
+}
